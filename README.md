@@ -8,6 +8,8 @@ The experiment consists of running CNN on notMNIST dataset with different types 
 * 2 layered CNN model with Xavier initialization and LeakyReLU activation function
 * 2 layered CNN model with He initialization and L2 regularization
 
-The experiment is done twice, first is running all those models with Adam Optimizer (refer to notMNIST_adam_Indra_20195118.ipynb).<br>
-second is running all those models with Adagrad Optimizer (refer to notMNIST_adagrad_Indra_20195118.ipynb).<br>
+The experiment is done twice, first is running all those models with Adam Optimizer<br>
+(refer to notMNIST_adam_Indra_20195118.ipynb file).<br><br>
+Second is running all those models with Adagrad Optimizer<br>
+(refer to notMNIST_adagrad_Indra_20195118.ipynb file).<br><br>
 For detailed report, please refer to the file Report_DL_Midterm_No7_Indra_20195118.pdf
