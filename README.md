@@ -1,2 +1,2 @@
-# DL_Midterm_notMNIST_CNN
-Deep Learning Midterm - Indra Imanuel Gunawan / 20195118 - notMNIST CNN experiment
+# Deep Learning Midterm (No. 7) - CNN experiment on notMNIST dataset
+Deep Learning Midterm (No. 7) - Indra Imanuel Gunawan / 20195118 - notMNIST CNN experiment
